@@ -1,7 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ola-iya'
 theme = 'gokarna'
+showpostsonhomepage = "recent"
+numberpostsonhomepage = 4
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menu]
+  [[menu.main]]
+    identifier = "writeups"
+    name = "Writeups"
+    url = "/writeups/"
+    weight = 1
