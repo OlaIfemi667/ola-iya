@@ -1,3 +1,9 @@
++++
+title = 'Trame'
+date = 2025-09-02T10:40:09+02:00
+draft = true
++++
+
 # ETHERMET-trame
 
 

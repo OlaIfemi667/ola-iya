@@ -6,21 +6,7 @@
     <description>Recent content in Writeups on ola-iya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 18:16:45 +0200</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/writeups/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rootme</title>
-      <link>http://localhost:1313/writeups/rootme/rootme/</link>
-      <pubDate>Mon, 01 Sep 2025 18:16:45 +0200</pubDate>
-      <guid>http://localhost:1313/writeups/rootme/rootme/</guid>
-      <description>Root-me 🚀 Root-me est une plateforme d&amp;rsquo;apprentissage dédiée à la sécurité informatique et au pentest.&#xA;Pourquoi l’utiliser ? Plus de 400 challenges disponibles Des environnements réalistes Une communauté active </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/writeups/rootme/ethernet-trame/solution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writeups/rootme/ethernet-trame/solution/</guid>
-      <description>ETHERMET-trame j&amp;rsquo;ai décodé la trame sur site pour décoder trame: on constate au niveau des données une requête HTTP&#xA;GET / HTTP/1.1\r\n Request Method: GET Request URI: / Request Version: HTTP/1.1 Authorization: Basic Y29uZmk6ZGVudGlhbA==\r\n Credentials: confi:dential User-Agent: InsaneBrowser\r\n Host: www.myipv6.org\r\n Accept: */*\r\n \r\n Full request URI: http://www.myipv6.org/ </description>
-    </item>
   </channel>
 </rss>

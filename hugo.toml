@@ -10,7 +10,31 @@ numberpostsonhomepage = 4
 
 [menu]
   [[menu.main]]
-    identifier = "writeups"
-    name = "Writeups"
-    url = "/writeups/"
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
     weight = 1
+
+  [[menu.main]]
+    name = "writeups"
+    pre = "<span data-feather='book'></span>"
+    url = "/writeups/"
+    weight = 2
+
+  [[menu.main]]
+    name = "about"
+    pre = "<span data-feather='code'></span>"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tags"
+    pre = "<span data-feather='tag'></span>"
+    url = "/tags/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "github"
+    pre = "<span data-feather='github'></span>"
+    url = "https://github.com/gokarna-theme/gokarna-hugo"
+    weight = 5

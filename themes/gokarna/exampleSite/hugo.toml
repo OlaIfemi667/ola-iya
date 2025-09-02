@@ -57,9 +57,9 @@ title = "Gokarna"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
+    name = "Writeups"
     pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    url = "/writeups/"
     weight = 2
 
   [[menu.main]]

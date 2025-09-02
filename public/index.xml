@@ -6,13 +6,13 @@
     <description>Recent content in Accueil on ola-iya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 10:40:09 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/writeups/rootme/ethernet-trame/solution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writeups/rootme/ethernet-trame/solution/</guid>
+      <title>Trame</title>
+      <link>http://localhost:1313/writeups/rootme/ethernet-trame/trame/</link>
+      <pubDate>Tue, 02 Sep 2025 10:40:09 +0200</pubDate>
+      <guid>http://localhost:1313/writeups/rootme/ethernet-trame/trame/</guid>
       <description>ETHERMET-trame j&amp;rsquo;ai décodé la trame sur site pour décoder trame: on constate au niveau des données une requête HTTP&#xA;GET / HTTP/1.1\r\n Request Method: GET Request URI: / Request Version: HTTP/1.1 Authorization: Basic Y29uZmk6ZGVudGlhbA==\r\n Credentials: confi:dential User-Agent: InsaneBrowser\r\n Host: www.myipv6.org\r\n Accept: */*\r\n \r\n Full request URI: http://www.myipv6.org/ </description>
     </item>
   </channel>

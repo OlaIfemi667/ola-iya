@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="prose mx-auto">
+  <h1 class="text-3xl font-bold mb-6">{{ .Title }}</h1>
+  <ul class="space-y-4">
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}" class="text-blue-600 hover:underline">
+          {{ .Title }}
+        </a>
+        <p class="text-gray-500 text-sm">{{ .Summary }}</p>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
