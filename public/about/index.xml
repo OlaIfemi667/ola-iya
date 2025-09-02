@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on ola-iya</title>
+    <title>Abouts on ola-iya</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in About on ola-iya</description>
+    <description>Recent content in Abouts on ola-iya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 10:52:51 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Tue, 02 Sep 2025 10:52:51 +0200</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>👨‍💻 Ola-Iya BANCOLE 📍 Abomey-Calavi, Zoundja&#xA;📧 bancolejeandedieu@gmail.com&#xA;📱 +229 0156462481 / +229 0152914325&#xA;🎓 Éducation Licence Professionnelle Cybersécurité (en cours – instance septembre 2025) Baccalauréat (Série D) – 2020-2021 BEPC (Brevet d’Études du Premier Cycle) – 2017-2018 📜 Certifications (Mai 2023) Introduction à la cybersécurité – Cisco (Août 2025) Python Essentials 1 – Cisco 🛠️ Compétences Techniques Domaine Niveau Réseaux (Routage &amp;amp; Commutation) ★★★☆☆ Administration Windows (AD) ★★★☆☆ Administration Linux ★★★★☆ Programmation C/C++ ★★★★☆ Programmation Python ★★★★☆ Programmation JavaScript ★★★☆☆ Développement Web (HTML/CSS/JS) ★★★☆☆ Framework Django ★★★☆☆ Framework ExpressJS ★★★☆☆ Test d’intrusion (Pentest) ★★★☆☆ 💼 Expérience Professionnelle Stage Professionnel – Département IT GRAFNET (Cotonou) 📅 Août 2024 – Aujourd’hui</description>
+    </item>
   </channel>
 </rss>

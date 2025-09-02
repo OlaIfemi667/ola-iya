@@ -6,7 +6,14 @@
     <description>Recent content in Writeups on ola-iya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:59:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Picoctf</title>
+      <link>http://localhost:1313/writeups/picoctf/picoctf/</link>
+      <pubDate>Tue, 02 Sep 2025 11:59:50 +0200</pubDate>
+      <guid>http://localhost:1313/writeups/picoctf/picoctf/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

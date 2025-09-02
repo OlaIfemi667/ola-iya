@@ -4,11 +4,11 @@ date = 2025-09-02T10:40:09+02:00
 draft = true
 +++
 
-# ETHERMET-trame
+# ETHERNET-trame
 
 
 - j'ai décodé la trame sur [site pour décoder trame](https://hpd.gasmi.net/ "site decode trame"):
-![apercu](image.png)
+![apercu](/images/rootme/ethernet-frame-image.png)
 
 - on constate au niveau des données une requête HTTP
 
