@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/OlaIfemi667/ola-iya.git'
 languageCode = 'en-us'
 title = 'ola-iya'
 theme = 'gokarna'

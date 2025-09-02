@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on ola-iya</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/OlaIfemi667/ola-iya.git/</link>
     <description>Recent content in Accueil on ola-iya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2025 11:59:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/OlaIfemi667/ola-iya.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picoctf</title>
-      <link>http://localhost:1313/writeups/picoctf/picoctf/</link>
+      <link>http://localhost:1313/OlaIfemi667/ola-iya.git/writeups/picoctf/picoctf/</link>
       <pubDate>Tue, 02 Sep 2025 11:59:50 +0200</pubDate>
-      <guid>http://localhost:1313/writeups/picoctf/picoctf/</guid>
+      <guid>http://localhost:1313/OlaIfemi667/ola-iya.git/writeups/picoctf/picoctf/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/OlaIfemi667/ola-iya.git/about/</link>
       <pubDate>Tue, 02 Sep 2025 10:52:51 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/OlaIfemi667/ola-iya.git/about/</guid>
       <description>👨‍💻 Ola-Iya BANCOLE 📍 Abomey-Calavi, Zoundja&#xA;📧 bancolejeandedieu@gmail.com&#xA;📱 +229 0156462481 / +229 0152914325&#xA;🎓 Éducation Licence Professionnelle Cybersécurité (en cours – instance septembre 2025) Baccalauréat (Série D) – 2020-2021 BEPC (Brevet d’Études du Premier Cycle) – 2017-2018 📜 Certifications (Mai 2023) Introduction à la cybersécurité – Cisco (Août 2025) Python Essentials 1 – Cisco 🛠️ Compétences Techniques Domaine Niveau Réseaux (Routage &amp;amp; Commutation) ★★★☆☆ Administration Windows (AD) ★★★☆☆ Administration Linux ★★★★☆ Programmation C/C++ ★★★★☆ Programmation Python ★★★★☆ Programmation JavaScript ★★★☆☆ Développement Web (HTML/CSS/JS) ★★★☆☆ Framework Django ★★★☆☆ Framework ExpressJS ★★★☆☆ Test d’intrusion (Pentest) ★★★☆☆ 💼 Expérience Professionnelle Stage Professionnel – Département IT GRAFNET (Cotonou) 📅 Août 2024 – Aujourd’hui</description>
     </item>
     <item>
       <title>Trame</title>
-      <link>http://localhost:1313/writeups/rootme/ethernet-trame/</link>
+      <link>http://localhost:1313/OlaIfemi667/ola-iya.git/writeups/rootme/ethernet-trame/</link>
       <pubDate>Tue, 02 Sep 2025 10:40:09 +0200</pubDate>
-      <guid>http://localhost:1313/writeups/rootme/ethernet-trame/</guid>
+      <guid>http://localhost:1313/OlaIfemi667/ola-iya.git/writeups/rootme/ethernet-trame/</guid>
       <description>ETHERNET-trame j&amp;rsquo;ai décodé la trame sur site pour décoder trame: on constate au niveau des données une requête HTTP&#xA;GET / HTTP/1.1\r\n Request Method: GET Request URI: / Request Version: HTTP/1.1 Authorization: Basic Y29uZmk6ZGVudGlhbA==\r\n Credentials: confi:dential User-Agent: InsaneBrowser\r\n Host: www.myipv6.org\r\n Accept: */*\r\n \r\n Full request URI: http://www.myipv6.org/ </description>
     </item>
   </channel>
